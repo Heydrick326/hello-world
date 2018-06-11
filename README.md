@@ -2,4 +2,4 @@
 
 Hello world,
 
-My name is Heydrick
+My name is Heydrick.
